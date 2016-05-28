@@ -7,11 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "an agrarian life"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Lauren Phillips"
+description              : "a blog about growing food."
+# the base hostname & protocol for your site e.g.
+url                      : "https://lo-phi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -37,7 +38,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : lo.phi666	
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -61,11 +62,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
+  name             : "Lauren Phillips"
+  avatar           : "laurenstare.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "WSANEC Territories, Vancouver Island"
+  email            : "l.j.phillips16@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
